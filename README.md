@@ -24,6 +24,7 @@ Rather than relying on high-level libraries, the focus is on core machine learni
 ✅ Advanced Learning Algorithms (core concepts)
 
 🧠 Topics Implemented
+
 🔹 Linear Regression
 
 Cost function & intuition
